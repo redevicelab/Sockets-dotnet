@@ -1,0 +1,7 @@
+D:\source\repos\test\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+D:\source\repos\test\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+D:\source\repos\test\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+D:\source\repos\test\SocketClient\SocketClient\obj\Debug\SocketClient.csprojAssemblyReference.cache
+D:\source\repos\test\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+D:\source\repos\test\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+D:\source\repos\test\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
